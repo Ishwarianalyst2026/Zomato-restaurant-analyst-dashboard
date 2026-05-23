@@ -1,11 +1,5 @@
 # Zomato Restaurant Analysis Dashboard 🍽️📊
 
-## 📷 Dashboard Preview
-
-![Power BI Dashboard](images/dashboard.png)
-
----
-
 ## 📊 Key Business Questions Solved
 
 ### 🔹 Restaurant Analysis
