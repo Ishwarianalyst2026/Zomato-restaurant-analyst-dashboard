@@ -89,6 +89,4 @@ Raw Dataset
 
 ---
 
-## 👩‍💻 Author
-**Ishwari Prabhune**  
-Aspiring Data Analyst | Power BI Enthusiast
+
